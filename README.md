@@ -1,2 +1,1 @@
-# gkgangavarapu.github.io
-My Personal Page
+# Welcome to my Personal Page
